@@ -1,0 +1,12 @@
+server:
+  port: 1040
+spring:
+  application:
+    name: hrm-system
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1010/eureka
+  instance:
+    prefer-ip-address: true
+    instance-id: zuul-server:1020  #指定客户端实例的ID
