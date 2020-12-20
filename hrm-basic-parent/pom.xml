@@ -12,6 +12,7 @@
     <modules>
         <module>hrm-basic-util</module>
         <module>hrm-basic-common</module>
+        <module>hrm-basic-code-generate</module>
     </modules>
     <artifactId>hrm-basic-parent</artifactId>
 

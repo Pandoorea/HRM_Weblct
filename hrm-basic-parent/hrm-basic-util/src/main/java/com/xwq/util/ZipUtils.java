@@ -1,4 +1,4 @@
-package com.xwq.util;//package cn.itsource.hrm.utils;
+package com.xwq.util;//package com.xwq.utils;
 //
 //import java.io.BufferedInputStream;
 //import java.io.BufferedOutputStream;
